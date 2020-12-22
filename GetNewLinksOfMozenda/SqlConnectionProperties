@@ -1,0 +1,6 @@
+Client={​​​​​​​​SQL Server Native Client 11.0}​​​​
+​​​​SERVER=10.0.0.15
+PORT=1433
+DATABASE=M1B_Master
+UID=m1bqc
+PWD=m1b0813
